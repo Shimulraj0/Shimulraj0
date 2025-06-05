@@ -71,7 +71,7 @@
 
 ## 🌀 Pixel Trail Animation
 
-👉 [Click here to view Pixel Mouse Animation](https://Shimulraj0.github.io/pixel-animation/)
+👉 [Click here to view Pixel Mouse Animation](https://Shimulraj0.github.io/Pixel-animation/)
 
 ---
 
