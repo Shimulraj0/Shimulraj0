@@ -1,70 +1,65 @@
+<!-- banner section -->
+<img src="https://github.com/Shimulraj0/Shimulraj0/blob/main/banner.gif" width="100%"/>
+
 <h1 align="center">👋 Hi there, I'm Raj!</h1>
-<h3 align="center">Flutter Developer (Beginner) | IT Hardware Enthusiast | Android Tinkerer</h3>
+<h3 align="center">Flutter Dev | Android Tweaker | Tech Tinkerer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=440&lines=Aspiring+Flutter+Developer;Tech+Lover+%F0%9F%92%BB;Custom+ROM+%2F+macOS+Hackintosh+%F0%9F%92%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Exploring+Flutter+%26+Dart+World;Tinkering+Android+ROMs+%F0%9F%92%BB;Dreaming+Big+from+Bangladesh+%F0%9F%87%A7%F0%9F%87%AD" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Shimulraj0&style=flat-square&color=blue" alt="profile views"/>
 </p>
 
 ---
 
-## 🚀 About Me
-- 🧑‍💻 Currently learning **Flutter & Firebase**
-- 🔧 Tinker with Android ROMs, bootloader, macOS Hackintosh, and recovery flash
-- 🎯 Goal: Become a professional mobile app developer with strong backend support
-- 🌍 Based in: **Dhaka, Bangladesh**
+## 🧑‍💻 About Me
+- 📱 Building apps with **Flutter + Firebase**
+- ⚙️ Flashing ROMs | macOS Hackintosh | Recovery tweaks
+- 🏫 CSE Diploma student, learning by doing
+- 💡 Exploring internship & freelance opportunities
 
 ---
 
-## 🛠️ Skills
-
-### 👨‍💻 Tech Stack:
-<p>
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+## 💼 Tech Stack
+<p align="center">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</p>
-
-### 🔧 Tools & OS:
-<p>
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
-  <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
 </p>
 
 ---
 
-## 📂 Projects (Coming Soon)
-- 📱 **ToDo App** – Task manager with local storage  
-- 🌤️ **Weather App** – REST API-based weather data  
-- 📝 **Notes App** – Simple CRUD note keeper  
+## 🔥 GitHub Stats
 
-*Code will be uploaded soon! Stay tuned...*
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shimulraj0&show_icons=true&theme=radical" width="47%" />
+  <img src="https://streak-stats.demolab.com?user=Shimulraj0&theme=radical" width="47%" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/Shimulraj0/Shimulraj0/raw/output/github-contribution-grid-snake.svg" />
+</p>
 
 ---
 
 ## 📫 Connect With Me
 
-<p>
+<p align="center">
   <a href="https://www.linkedin.com/in/raj-cse-diploma/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Raj's LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:dasraj078@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Raj's Gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-## 🧮 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shimulraj0&show_icons=true&theme=tokyonight" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shimulraj0&theme=tokyonight" width="48%"/>
-</p>
-
----
-
-<p align="center">Thanks for visiting! 🚀</p>
+<p align="center">🚀 Let’s build something great together!</p>
