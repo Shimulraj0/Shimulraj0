@@ -47,8 +47,6 @@
   <img src="https://github.com/Shimulraj0/Shimulraj0/raw/output/github-contribution-grid-snake.svg" />
 </p>
 
----
-
 ## 📫 Connect With Me
 
 <p align="center">
