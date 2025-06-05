@@ -13,7 +13,7 @@
 - 🧑‍💻 Freelancing in IT & App Troubleshooting
 - 🌐 I'm building voice assistant apps cross-platform
 - 📫 Email: **dasraj078@gmail.com**
-- 🔗 [My LinkedIn](https://www.linkedin.com/in/shimulraj0)
+- 🔗 [My LinkedIn](https://www.linkedin.com/in/shimul-raj-das-587847369?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 ---
 
