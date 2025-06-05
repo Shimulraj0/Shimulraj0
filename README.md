@@ -6,7 +6,7 @@
 <h1 align="center">Hi, I'm Raj 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=480&lines=Flutter+Dev+%7C+Android+Tweaker+%7C+Tech+Enthusiast;Always+Learning+Something+New+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=1000&center=true&vCenter=true&width=500&lines=Flutter+Dev+%7C+Android+Tweaker+%7C+Tech+Enthusiast;Always+Learning+Something+New+🚀" alt="Typing SVG" />
 </p>
 
 ---
