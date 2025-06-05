@@ -46,6 +46,9 @@
 <p align="center">
   <img src="https://github.com/Shimulraj0/Shimulraj0/raw/output/github-contribution-grid-snake.svg" />
 </p>
+<p align="center">
+  <img src="https://github.com/Shimulraj0/Shimulraj0/raw/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+</p>
 
 ## 📫 Connect With Me
 
