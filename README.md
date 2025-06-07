@@ -65,8 +65,8 @@
 
 ## 🐍 Contribution Snake
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Shimulraj0/Shimulraj0/output/github-contribution-grid-snake.svg" />
-  <img src="https://raw.githubusercontent.com/Shimulraj0/Shimulraj0/output/github-contribution-grid-snake-dark.svg?palette=github-dark" />
+  <img src="https://raw.githubusercontent.com/Shimulraj0/Shimulraj0/main/github-contribution-grid-snake.svg" />
+<img src="https://raw.githubusercontent.com/Shimulraj0/Shimulraj0/main/github-contribution-grid-snake-dark.svg?palette=github-dark" />
 </p>
 
 ---
