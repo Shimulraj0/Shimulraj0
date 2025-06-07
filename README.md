@@ -28,29 +28,29 @@
 
 ## 🧰 Tech Stack
 <p align="center">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white&borderRadius=10"/>
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white&borderRadius=10"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black&borderRadius=10"/>
-  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&borderRadius=10"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&borderRadius=10"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&borderRadius=10"/>
-  <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white&borderRadius=10"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&borderRadius=10"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&borderRadius=10"/>
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white&borderRadius=10"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&borderRadius=10"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white&borderRadius=30"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white&borderRadius=30"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black&borderRadius=30"/>
+  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&borderRadius=30"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&borderRadius=30"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&borderRadius=30"/>
+  <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white&borderRadius=30"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&borderRadius=30"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&borderRadius=30"/>
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white&borderRadius=30"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&borderRadius=30"/>
 </p>
 
 ---
 
 ## 🏷️ Custom Badges
 <p align="center">
-  <img src="https://img.shields.io/badge/Android-ROM%20Tweaker-yellow?style=for-the-badge&borderRadius=15"/>
-  <img src="https://img.shields.io/badge/macOS-Hackintosh-blueviolet?style=for-the-badge&logo=apple&logoColor=white&borderRadius=15"/>
+  <img src="https://img.shields.io/badge/Android-ROM%20Tweaker-yellow?style=for-the-badge&borderRadius=25"/>
+  <img src="https://img.shields.io/badge/macOS-Hackintosh-blueviolet?style=for-the-badge&logo=apple&logoColor=white&borderRadius=25"/>
   <img src="https://img.shields.io/badge/Tech-Tinkerer-brightgreen?style=for-the-badge&borderRadius=15"/>
-  <img src="https://img.shields.io/badge/Open%20Source-Contributor-critical?style=for-the-badge&logo=github&borderRadius=15"/>
-  <img src="https://img.shields.io/badge/Freelancer-Available-success?style=for-the-badge&logo=freelancer&borderRadius=15"/>
-  <img src="https://img.shields.io/badge/Always-Learning-orange?style=for-the-badge&borderRadius=15"/>
+  <img src="https://img.shields.io/badge/Open%20Source-Contributor-critical?style=for-the-badge&logo=github&borderRadius=25"/>
+  <img src="https://img.shields.io/badge/Freelancer-Available-success?style=for-the-badge&logo=freelancer&borderRadius=25"/>
+  <img src="https://img.shields.io/badge/Always-Learning-orange?style=for-the-badge&borderRadius=25"/>
 </p>
 
 ---
@@ -65,7 +65,6 @@
 
 ## 🐍 Contribution Snake
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Shimulraj0/Shimulraj0/main/github-contribution-grid-snake.svg" />
   <img src="https://raw.githubusercontent.com/Shimulraj0/Shimulraj0/main/github-contribution-grid-snake-dark.svg?palette=github-dark" />
 </p>
 
