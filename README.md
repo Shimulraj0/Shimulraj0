@@ -1,6 +1,9 @@
+<p align="center">
+  <a href="https://www.linkedin.com/in/shimul-raj-das-587847369" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-View_Profile-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</p>
 
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="VERTICAL" data-vanity="shimul-raj-das-587847369" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://bd.linkedin.com/in/shimul-raj-das-587847369?trk=profile-badge">Shimul Raj Das</a></div>
-              
 <img src="https://github.com/Shimulraj0/Shimulraj0/blob/main/banner.gif" width="100%"/>
 
 <h1 align="center">👋 Hi there, I'm Raj!✨</h1>
@@ -31,25 +34,15 @@
 ## 🧰 Tech Stack
 <p align="center">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white&borderRadius=30"/>
-
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white&borderRadius=30"/>
-
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black&borderRadius=30"/>
-
   <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&borderRadius=30"/>
-
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&borderRadius=30"/>
-
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&borderRadius=30"/>
-
   <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white&borderRadius=30"/>
-
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&borderRadius=30"/>
-
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&borderRadius=30"/>
-
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white&borderRadius=30"/>
-
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&borderRadius=30"/>
 </p>
 
