@@ -1,4 +1,5 @@
-<!-- banner section -->
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="VERTICAL" data-vanity="shimul-raj-das-587847369" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://bd.linkedin.com/in/shimul-raj-das-587847369?trk=profile-badge">Shimul Raj Das</a></div>
+              <!-- banner section -->
 <img src="https://github.com/Shimulraj0/Shimulraj0/blob/main/banner.gif" width="100%"/>
 
 <h1 align="center">👋 Hi there, I'm Raj!✨</h1>
