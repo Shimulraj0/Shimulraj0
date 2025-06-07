@@ -56,6 +56,11 @@
 ---
 
 ## 🔥 GitHub Stats
+
+<p align="center">
+  <img src="https://i.gifer.com/ZZ5H.gif" width="50" alt="loading..." />
+</p>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Shimulraj0&show_icons=true&theme=radical" width="47%" />
   <img src="https://streak-stats.demolab.com?user=Shimulraj0&theme=radical" width="47%" />
@@ -66,12 +71,17 @@
 ## 🐍 Contribution Snake
 <p align="center">
   <img src="https://raw.githubusercontent.com/Shimulraj0/Shimulraj0/main/github-contribution-grid-snake.svg" />
-<img src="https://raw.githubusercontent.com/Shimulraj0/Shimulraj0/main/github-contribution-grid-snake-dark.svg?palette=github-dark" />
+  <img src="https://raw.githubusercontent.com/Shimulraj0/Shimulraj0/main/github-contribution-grid-snake-dark.svg?palette=github-dark" />
 </p>
 
 ---
 
 ## 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://i.gifer.com/ZZ5H.gif" width="50" alt="loading..." />
+</p>
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Shimulraj0&theme=radical&no-frame=true&column=6" />
 </p>
@@ -79,6 +89,11 @@
 ---
 
 ## 📊 Activity Graph
+
+<p align="center">
+  <img src="https://i.gifer.com/ZZ5H.gif" width="50" alt="loading..." />
+</p>
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shimulraj0&theme=github-compact&hide_border=true" />
 </p>
@@ -105,6 +120,11 @@
 ---
 
 ## 🧑‍💻 Dynamic Resume
+
+<p align="center">
+  <img src="https://i.gifer.com/ZZ5H.gif" width="50" alt="loading..." />
+</p>
+
 <p align="center">
   <a href="https://drive.google.com/file/d/1dMGMyS_qL3RHK2k0UVOH7nDtwHo9n5gG/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/My%20Resume-%2300C853.svg?&style=for-the-badge&logo=googledrive&logoColor=white" />
