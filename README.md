@@ -5,7 +5,9 @@
 <h3 align="center">Flutter Dev | Android Tweaker | Tech Tinkerer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Exploring+Flutter+%26+Dart+World;Tinkering+Android+ROMs+%F0%9F%92%BB;Dreaming+Big+from+Bangladesh+🇧🇩" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Exploring+Flutter+%26+Dart+World;Tinkering+Android+ROMs+%F0%9F%92%BB;Dreaming+Big+from+Bangladesh" alt="Typing SVG" />
+  <br />
+  <img src="https://flagcdn.com/w40/bd.png" width="25" alt="Bangladesh Flag" />
 </p>
 
 <p align="center">
