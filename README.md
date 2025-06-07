@@ -1,6 +1,7 @@
+<!-- GitHub-Compatible LinkedIn Badge -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/shimul-raj-das-587847369" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-View_Profile-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <a href="https://www.linkedin.com/in/shimul-raj-das-587847369/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white&borderRadius=15"/>
   </a>
 </p>
 
