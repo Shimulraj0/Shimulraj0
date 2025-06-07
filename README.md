@@ -1,17 +1,19 @@
 <!-- banner section -->
-<img src="https://github.com/Shimulraj0/Shimulraj0/blob/main/banner.gif" width="100%"/>
-
-<h1 align="center">👋 Hi there, I'm Raj!✨</h1>
-<h3 align="center">Flutter Dev | Android Tweaker | Tech Tinkerer</h3>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Exploring+Flutter+%26+Dart+World;Tinkering+Android+ROMs+%F0%9F%92%BB;Dreaming+Big+from+Bangladesh" alt="Typing SVG" />
-  <br />
-  <img src="https://flagcdn.com/w40/bd.png" width="25" alt="Bangladesh Flag" />
+  <img src="https://raw.githubusercontent.com/Shimulraj0/Shimulraj0/main/banner.gif" width="100%" style="max-height:300px; object-fit:cover; border-radius: 12px;" />
 </p>
 
+<h1 align="center" style="font-weight: 700; color:#0af;">👋 Hi there, I'm Raj!✨</h1>
+<h3 align="center" style="color:#555;">Flutter Dev | Android Tweaker | Tech Tinkerer</h3>
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Shimulraj0&style=flat-square&color=blue" alt="Profile views"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=450&lines=Exploring+Flutter+%26+Dart+World;Tinkering+Android+ROMs+%F0%9F%92%BB;Dreaming+Big+from+Bangladesh" alt="Typing SVG" />
+  <br />
+  <img src="https://flagcdn.com/w80/bd.png" width="30" alt="Bangladesh Flag" style="margin-top:10px;"/>
+</p>
+
+<p align="center" style="background: linear-gradient(90deg, #4facfe 0%, #00f2fe 100%); padding:10px 0; border-radius: 15px; color:white; font-weight:600;">
+  Profile Views: <img src="https://komarev.com/ghpvc/?username=Shimulraj0&style=flat-square&color=white" alt="Profile views"/>
 </p>
 
 ---
@@ -57,30 +59,30 @@
 
 ## 🔥 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shimulraj0&show_icons=true&theme=radical" width="47%" />
-  <img src="https://streak-stats.demolab.com?user=Shimulraj0&theme=radical" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Shimulraj0&show_icons=true&theme=radical" width="47%" style="border-radius: 10px; box-shadow: 0 4px 8px rgb(0 0 0 / 0.2);" />
+  <img src="https://streak-stats.demolab.com?user=Shimulraj0&theme=radical" width="47%" style="border-radius: 10px; box-shadow: 0 4px 8px rgb(0 0 0 / 0.2);" />
 </p>
 
 ---
 
 ## 🐍 Contribution Snake
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Shimulraj0/Shimulraj0/main/github-contribution-grid-snake.svg" />
-  <img src="https://raw.githubusercontent.com/Shimulraj0/Shimulraj0/main/github-contribution-grid-snake-dark.svg?palette=github-dark" />
+  <img src="https://raw.githubusercontent.com/Shimulraj0/Shimulraj0/main/github-contribution-grid-snake.svg" style="border-radius: 10px; box-shadow: 0 4px 8px rgb(0 0 0 / 0.1);" />
+  <img src="https://raw.githubusercontent.com/Shimulraj0/Shimulraj0/main/github-contribution-grid-snake-dark.svg?palette=github-dark" style="border-radius: 10px; box-shadow: 0 4px 8px rgb(0 0 0 / 0.1);" />
 </p>
 
 ---
 
 ## 🏆 GitHub Achievements
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Shimulraj0&theme=radical&no-frame=true&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Shimulraj0&theme=radical&no-frame=true&column=6" style="border-radius: 10px; box-shadow: 0 4px 8px rgb(0 0 0 / 0.2);" />
 </p>
 
 ---
 
 ## 📊 Activity Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shimulraj0&theme=github-compact&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shimulraj0&theme=github-compact&hide_border=true" style="border-radius: 10px; box-shadow: 0 4px 8px rgb(0 0 0 / 0.15);" />
 </p>
 
 ---
@@ -94,7 +96,7 @@
 
 ## 📬 Connect With Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/shimul-raj-das-587847369/" target="_blank">
+  <a href="https://www.linkedin.com/in/shimul-raj-das-587847369/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:shimulrajdas001@gmail.com">
@@ -106,7 +108,7 @@
 
 ## 🧑‍💻 Dynamic Resume
 <p align="center">
-  <a href="https://drive.google.com/file/d/1dMGMyS_qL3RHK2k0UVOH7nDtwHo9n5gG/view?usp=sharing" target="_blank">
+  <a href="https://drive.google.com/file/d/1dMGMyS_qL3RHK2k0UVOH7nDtwHo9n5gG/view?usp=sharing" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/My%20Resume-%2300C853.svg?&style=for-the-badge&logo=googledrive&logoColor=white" />
   </a>
 </p>
@@ -115,9 +117,9 @@
 
 ## 🌆 GitHub Skyline (Animated Contribution Graph)
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" style="border-radius: 12px;" />
 </p>
 
 ---
 
-<p align="center">🚀 Let’s build something great together!</p>
+<p align="center" style="font-weight: 600; font-size: 1.1em;">🚀 Let’s build something great together!</p>
