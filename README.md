@@ -1,5 +1,5 @@
 <!-- banner section -->
-<img src="https://github.com/Shimulraj0/Shimulraj0/blob/main/banner.gif" width="100%" />
+<img src="https://github.com/Shimulraj0/Shimulraj0/blob/main/banner.gif" width="100%"/>
 
 <h1 align="center">👋 Hi there, I'm Raj!✨</h1>
 <h3 align="center">Flutter Dev | Android Tweaker | Tech Tinkerer</h3>
@@ -11,14 +11,14 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Shimulraj0&style=flat-square&color=blueviolet" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Shimulraj0&style=flat-square&color=blue" alt="Profile views"/>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🛠 Building apps with **Flutter + Firebase**  
+- 🛠 Building apps with **Flutter + Firebase**
 - 🔧 Flashing ROMs | macOS Hackintosh | Recovery tweaks  
 - 📚 CSE Diploma student, learning by doing  
 - 🌱 Exploring internship & freelance opportunities  
@@ -28,37 +28,37 @@
 
 ## 🧰 Tech Stack
 <p align="center">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white&borderRadius=15" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white&borderRadius=15" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black&borderRadius=15" />
-  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&borderRadius=15" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&borderRadius=15" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&borderRadius=15" />
-  <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white&borderRadius=15" />
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&borderRadius=15" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&borderRadius=15" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white&borderRadius=15" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&borderRadius=15" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white&borderRadius=15"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white&borderRadius=15"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black&borderRadius=15"/>
+  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&borderRadius=15"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&borderRadius=15"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&borderRadius=15"/>
+  <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white&borderRadius=15"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&borderRadius=15"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&borderRadius=15"/>
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white&borderRadius=15"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&borderRadius=15"/>
 </p>
 
 ---
 
 ## 🏷️ Custom Badges
 <p align="center">
-  <img src="https://img.shields.io/badge/Android-ROM%20Tweaker-yellow?style=for-the-badge&borderRadius=15" />
-  <img src="https://img.shields.io/badge/macOS-Hackintosh-blueviolet?style=for-the-badge&logo=apple&logoColor=white&borderRadius=15" />
-  <img src="https://img.shields.io/badge/Tech-Tinkerer-brightgreen?style=for-the-badge&borderRadius=15" />
-  <img src="https://img.shields.io/badge/Open%20Source-Contributor-critical?style=for-the-badge&logo=github&borderRadius=15" />
-  <img src="https://img.shields.io/badge/Freelancer-Available-success?style=for-the-badge&logo=freelancer&borderRadius=15" />
-  <img src="https://img.shields.io/badge/Always-Learning-orange?style=for-the-badge&borderRadius=15" />
+  <img src="https://img.shields.io/badge/Android-ROM%20Tweaker-yellow?style=for-the-badge&borderRadius=15"/>
+  <img src="https://img.shields.io/badge/macOS-Hackintosh-blueviolet?style=for-the-badge&logo=apple&logoColor=white&borderRadius=15"/>
+  <img src="https://img.shields.io/badge/Tech-Tinkerer-brightgreen?style=for-the-badge&borderRadius=15"/>
+  <img src="https://img.shields.io/badge/Open%20Source-Contributor-critical?style=for-the-badge&logo=github&borderRadius=15"/>
+  <img src="https://img.shields.io/badge/Freelancer-Available-success?style=for-the-badge&logo=freelancer&borderRadius=15"/>
+  <img src="https://img.shields.io/badge/Always-Learning-orange?style=for-the-badge&borderRadius=15"/>
 </p>
 
 ---
 
 ## 🔥 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shimulraj0&show_icons=true&theme=radical" width="47%" />
-  <img src="https://streak-stats.demolab.com?user=Shimulraj0&theme=radical" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Shimulraj0&show_icons=true&theme=radical&borderRadius=15" width="47%" />
+  <img src="https://streak-stats.demolab.com?user=Shimulraj0&theme=radical&borderRadius=15" width="47%" />
 </p>
 
 ---
@@ -86,8 +86,8 @@
 ---
 
 ## 💫 Fun Facts
-- 🔧 I’ve revived a hard-bricked Android with just command-line tools!  
-- 🧠 I can dual boot Linux, Windows, and macOS on a single drive.  
+- 🔧 I’ve revived a hard-bricked Android with just command-line tools!
+- 🧠 I can dual boot Linux, Windows, and macOS on a single drive.
 - 🚀 I believe: _"Learn it. Build it. Break it. Fix it. Repeat."_
 
 ---
@@ -95,10 +95,10 @@
 ## 📬 Connect With Me
 <p align="center">
   <a href="https://www.linkedin.com/in/shimul-raj-das-587847369/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white&borderRadius=15"/>
   </a>
   <a href="mailto:shimulrajdas001@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white&borderRadius=15"/>
   </a>
 </p>
 
@@ -107,7 +107,7 @@
 ## 🧑‍💻 Dynamic Resume
 <p align="center">
   <a href="https://drive.google.com/file/d/1dMGMyS_qL3RHK2k0UVOH7nDtwHo9n5gG/view?usp=sharing" target="_blank">
-    <img src="https://img.shields.io/badge/My%20Resume-%2300C853.svg?&style=for-the-badge&logo=googledrive&logoColor=white" />
+    <img src="https://img.shields.io/badge/My%20Resume-%2300C853.svg?&style=for-the-badge&logo=googledrive&logoColor=white&borderRadius=15" />
   </a>
 </p>
 
