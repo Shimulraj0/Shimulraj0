@@ -22,6 +22,16 @@
 
 ---
 
+## 🎧 Currently Listening to
+
+<p align="center">
+  <a href="https://open.spotify.com/user/Raj.+.+" target="_blank">
+    <img src="https://spotify-readme.vercel.app/api/Raj.+.+" alt="Spotify Now Playing" width="350"/>
+  </a>
+</p>
+
+---
+
 ## 👨‍💻 About Me
 
 - 🛠 Building apps with **Flutter + Firebase**
