@@ -6,7 +6,7 @@
 </p>
 
 <img src="https://github.com/Shimulraj0/Shimulraj0/blob/main/banner.gif" width="100%" alt="Animated banner with technology theme"/>
-
+---
 <h1 align="center">👋 Hi there, I'm Raj!✨</h1>
 <h3 align="center">Flutter Dev | Android Tweaker | Tech Tinkerer</h3>
 
