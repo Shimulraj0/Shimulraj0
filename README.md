@@ -12,7 +12,7 @@
 
 ---
 
-(#-github-skyline-animated-contribution-graph)
+
 
 ---
 
