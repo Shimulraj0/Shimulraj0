@@ -12,20 +12,7 @@
 
 ---
 
-## 📑 Table of Contents
-
-- [About Me](#-about-me)
-- [Tech Stack](#-tech-stack)
-- [Custom Badges](#-custom-badges)
-- [Featured Projects](#-featured-projects)
-- [GitHub Stats](#-github-stats)
-- [Contribution Snake](#-contribution-snake)
-- [Achievements](#-achievements)
-- [Activity Graph](#-activity-graph)
-- [Fun Facts](#-fun-facts)
-- [Connect With Me](#-connect-with-me)
-- [Resume](#-dynamic-resume)
-- [Skyline](#-github-skyline-animated-contribution-graph)
+(#-github-skyline-animated-contribution-graph)
 
 ---
 
