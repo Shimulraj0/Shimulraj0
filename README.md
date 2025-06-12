@@ -13,7 +13,7 @@
 - 🎓 **Diploma in Computer Science Engineering**
 - 🏫 *Shariatpur Polytechnic Institute*
 - 📅 Expected Graduation: January 2026
-- 📈 Last Semester CGPA: **3.76**
+- 📈 Last Semester CGPA: **3.68**
 
 ---
 
