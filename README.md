@@ -1,6 +1,6 @@
 
 <p align="center">
-<img 
+  <img 
 src="https://user-images.githubusercontent.com/67656229/231989130-452bdc96-4fb3-4129-91d6-1c2fb1e8ce90.gif"
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F7FD5,50:86A8E7,100:91EAE4&height=250&section=header&text=Shimul%20Raj%20Das&fontSize=40&fontColor=ffffff&desc=Flutter%20Dev%20|%20Android%20Tweaker%20|%20macOS%20Installer&descSize=20&descAlignY=70" />
