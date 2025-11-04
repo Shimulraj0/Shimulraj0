@@ -9,19 +9,20 @@ src="https://user-images.githubusercontent.com/67656229/231989130-452bdc96-4fb3-
 <h1 align="center">Hi 👋, I'm Shimul Raj Das</h1>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7F7FD5&center=true&vCenter=true&width=500&lines=Flutter+Developer;AI+%26+LLM+Explorer;Android+Tweaker;macOS+Installer;Tech+Enthusiast" />
-<h3 align="center">Flutter Developer | Android Tweaker | macOS Installer | Tech Enthusiast</h3>
-
----
 
 ### 🧑‍🎓 Education
+<img align="right" alt="coding" width="100" src="https://github.com/user-attachments/assets/b07a420a-29f5-4e77-82da-4a6616bbf750"/>
+
+
 - 🎓 **Diploma in Computer Science Engineering**
 - 🏫 *Shariatpur Polytechnic Institute*
 - 📅 Expected Graduation: January 2026
 - 📈 Last Semester CGPA: **3.68**
 
 ---
+### 🧑‍💻 About Me 
+<img align="right" alt="coding" width="200" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
 
-### 🧑‍💻 About Me
 
 - 🔭 I’m currently working on a **voice-controlled AI app using Flutter**
 - 🧠 Exploring **Large Language Models (LLMs)** for Bengali-English translation
