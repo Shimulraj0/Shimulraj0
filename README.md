@@ -83,7 +83,7 @@ src="https://user-images.githubusercontent.com/67656229/231989130-452bdc96-4fb3-
 ### 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Shimulraj0/Shimulraj0/output/github-contribution-grid-snake.svg"/>
+  <img src="https://raw.githubusercontent.com/Shimulraj0/Shimulraj0/main/github-contribution-grid-snake-dark.svg?palette=github-dark" />
 </p>
 
 
