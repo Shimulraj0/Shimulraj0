@@ -6,10 +6,7 @@ src="https://user-images.githubusercontent.com/67656229/231989130-452bdc96-4fb3-
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F7FD5,50:86A8E7,100:91EAE4&height=250&section=header&text=Shimul%20Raj%20Das&fontSize=40&fontColor=ffffff&desc=Flutter%20Dev%20|%20Android%20Tweaker%20|%20macOS%20Installer&descSize=20&descAlignY=70" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Shimul Raj Das</h1>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7F7FD5&center=true&vCenter=true&width=500&lines=Flutter+Developer;AI+%26+LLM+Explorer;Android+Tweaker;macOS+Installer;Tech+Enthusiast" />
-
+<h1 align="center">Hi 👋, I'm Shimul Raj Das</h1><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7F7FD5&center=true&vCenter=true&width=500&lines=Flutter+Developer;AI+%26+LLM+Explorer;Android+Tweaker;macOS+Installer;Tech+Enthusiast" />
 <h3 align="center">Flutter Developer | Android Tweaker | macOS Installer | Tech Enthusiast</h3>
 
 ---
