@@ -27,7 +27,7 @@ src="https://user-images.githubusercontent.com/67656229/231989130-452bdc96-4fb3-
 - 🔭 I’m currently working on a **voice-controlled AI app using Flutter**
 - 🧠 Exploring **Large Language Models (LLMs)** for Bengali-English translation
 - ⚙️ I love customizing Android – flashing **AOSP ROMs**, **recoveries**, and **bootloaders**
-- 🍏 I built my own **Hackintosh** (macOS on PC) for professional app dev
+- 🍏 I built my own **Hackintosh** (macOS on PC) for myself 
 - 🛠️ Deep interest in **IT support**, computer hardware, and system troubleshooting
 - 🌱 Always learning about **cross-platform development** and smart automation
 
