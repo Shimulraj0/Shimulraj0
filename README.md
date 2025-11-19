@@ -104,7 +104,7 @@ src="https://user-images.githubusercontent.com/67656229/231989130-452bdc96-4fb3-
   <a href="tel:+8801575204054">
     <img src="https://img.shields.io/badge/Phone-Call%20Now-brightgreen?style=for-the-badge"/>
   </a>
-  <a href="https://drive.google.com/file/d/your_resume_link_here/view">
+  <a href="[https://drive.google.com/file/d/your_resume_link_here/view](https://drive.google.com/file/d/1S5JlxSQDQnjzZxFdR1d1yTzLab_m0hrm/view?usp=sharing)">
     <img src="https://img.shields.io/badge/Resume-Download-orange?style=for-the-badge"/>
   </a>
 </p>
