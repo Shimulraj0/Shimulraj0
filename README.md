@@ -77,9 +77,8 @@ src="https://user-images.githubusercontent.com/67656229/231989130-452bdc96-4fb3-
 
 ### 🏆 GitHub Achievements
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Shimulraj0&theme=algolia&margin-w=10&column=7"/>
-</p>
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Shimulraj0&theme=algolia&margin-w=10&column=7)
+
 
 ---
 
