@@ -17,7 +17,7 @@ src="https://user-images.githubusercontent.com/67656229/231989130-452bdc96-4fb3-
 - 🎓 **Diploma in Computer Science Engineering**
 - 🏫 *Shariatpur Polytechnic Institute*
 - 📅 Expected Graduation: January 2026
-- 📈 Last Semester CGPA: **3.68**
+- 📈 Overall CGPA: **3.50**
 
 ---
 ### 🧑‍💻 About Me 
